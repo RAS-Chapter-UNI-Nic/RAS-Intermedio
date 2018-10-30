@@ -2,7 +2,7 @@
 
 Taller de arduino para los chicos de RAS Intermedio.
 
-# Instalación de Proteus V8.6 
+## Instalación de Proteus V8.6 
 
 Este archivo ya posee el crack de activación 
 1. Link de Descarga de proteus Mega
@@ -15,10 +15,15 @@ Ejecutar como Administrador
 https://controlautomaticoeducacion.com/wp-content/uploads/PROTEUS-ARDUINO.zip
 
 Copiar ARDUINO.LIB a:
-C:\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional\LIBRARY
+
+![Capt](https://github.com/RAS-Chapter-UNI-Nic/Arduino-ABC/blob/master/img/Captura.PNG)
+
+### C:\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional\LIBRARY
 
 
-# Instalación IDE Arduino
+## Instalación IDE Arduino
 
-Arduino Nightly
+### Arduino Nightly
+
+4. Link De descarga Arduino
 https://www.arduino.cc/download.php?f=/arduino-nightly-windows.zip

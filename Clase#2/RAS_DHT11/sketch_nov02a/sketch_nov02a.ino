@@ -4,7 +4,7 @@
 LiquidCrystal lcd(8, 9, 4, 5, 6, 7);//Asignacion de pines que utiliza el LCD
 
 #include <DHT.h>
-#include <DHT_U.h>
+
 
 // Incluimos librería
 #include "DHT.h"
@@ -44,8 +44,8 @@ void loop() {
   lcd.print("Humidity:");
   lcd.setCursor(10,2);
   lcd.print(h);
-  PWM_Out=(t-20)/2;
-  PWM_Out=PWM_Out*17;
+  PWM_Out=(t*255;
+  PWM_Out=PWM_Out/50;
  analogWrite( 3,PWM_Out);
  if(t>=30){digitalWrite(1,HIGH);}
  else{digitalWrite(1,LOW);}
